@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>Oxal</module>
+        <module>FakeBean</module>
         <module>Dravto</module>
     </modules>
 

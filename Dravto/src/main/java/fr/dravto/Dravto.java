@@ -5,7 +5,6 @@ import fr.dravto.service.UserService;
 import fr.dravto.utils.RandomUtils;
 import fr.oxal.anotation.FakeBean;
 import fr.oxal.anotation.FakeParameter;
-import fr.oxal.anotation.FakeQualifier;
 
 import java.util.Date;
 import java.util.stream.IntStream;
